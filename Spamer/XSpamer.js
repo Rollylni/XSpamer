@@ -185,10 +185,12 @@ var XSpamer = new function() {
                 try {
                     if(spam.spamm) {
                         spam.handler.removeCallbacksAndMessages(null);
-                        clientMessage("§c---------------");
-                        clientMessage("sended: §e" + spam.counter);
-                        clientMessage("uptime: §a" + spam.time / 1000);
-                        clientMessage("§c---------------");
+                        if(spam.messages.result) {
+                            clientMessage("§c---------------");
+                            clientMessage("sended: §e" + spam.counter);
+                            clientMessage("uptime: §a" + spam.time / 1000);
+                            clientMessage("§c---------------");
+                        }
                         spam.dialog.dismiss();
                         spam.showResult(spam);
                         spam.spamm = false;
