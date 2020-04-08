@@ -1,5 +1,5 @@
 # XSpamer
-BlockLauncher Script for spam
+BlockLauncher Script for spam,
 version 0.1
 
 
@@ -10,5 +10,4 @@ version 0.1
 
 # links:
 * [VK](https://vk.com/rollylni)
-* [GitHub](https://github.com/Rollylni)# XSpamer
-BlockLauncher
+* [GitHub](https://github.com/Rollylni)
