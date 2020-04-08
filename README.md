@@ -2,6 +2,8 @@
 BlockLauncher Script for spam,
 version 0.1
 
+![GitHub Logo](https://github.com/Rollylni/XSpamer/blob/master/Spamer/img/logo.jpg)
+Format: ![Alt Text](url)
 
 # usage:
 - [ ] move XSpamer to the games folder on internal storage
